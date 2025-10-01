@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+}
+.box{
+    margin: 50px;
+    border-radius: 15px;
+    height: 180px;
+    width: 200px;
+    background-color: rgb(135, 179, 179);
+    margin: auto;
+    text-align:center;
+}
+.box label{
+    padding: 5px;
+    display: flex;
+    text-align: justify;
+}
